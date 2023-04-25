@@ -1,0 +1,35 @@
+---
+title: "Nonstationary Time Series: Techniques and Tools"
+sidebar: false
+---
+
+The WA Branch of the Statistical Society of Australia warmly invites you to a workshop on Nonstationary time series presented by Professor [Guy Nason](https://www.imperial.ac.uk/people/g.nason) of Imperial College London, the [Frank Hansford-Miller Fellow](https://www.statsoc.org.au/Frank-Hansford-Miller-Fellowship) for 2023.
+
+**Date:** Thursday, 27 April 2023.
+
+**Time:** 9:00AM - 5:00PM.
+
+**Location:** [Curtin 139 St Georges Terrace](venue.html), 139 St Georges Tce, Perth, WA.
+
+## Abstract
+
+This workshop covers the modelling and analysis of (second-order) nonstationary time series. That is, time series whose second-order properties (variance, autocovariance) can change over time. We will look at some models for nonstationary time series and study their controlling parameters. We will then examine methods for estimating those parameters and statistical tests that can be used to detect non-stationarity in such time series. In the second part we will look at methods for estimating local versions of the classical autocovariance and partial autocovariance, which can provide a lot of insight into the behaviour of the series over time. Finally, we will examine methods and software for forecasting such series and seeing how they compare to methods designed for stationary series. If time permits, we might examine some network time series models.
+
+
+## Schedule
+
+| Time          | Activity                                     |
+|---------------|----------------------------------------------|
+| 09:00 - 09:30 | Arrival and Registration |
+| 09:30 - 11:00 |	[Session 1] Nonstationary Time Series: Models and Tests |
+| 11:00 - 11:30 |	Morning Tea |
+| 11:30 - 12:30 | [Session 2] Practical on Tests of Stationarity, Wavelet Spectrum Estimation |
+| 12:30 - 14:00 | Lunch |
+| 14:00 - 15:30 | [Session 3] Local Autocovariance, Local Partial Autocovariance, and Forecasting |
+| 15:30 - 16:00 | Afternoon Tea |
+| 16:00 - 17:00 | [Session 4] Practical: Local ACVF, ABML Series |
+
+
+## Acknowledgement of Country
+
+The Local Organising Committee acknowledge the Traditional Owners of the land upon which this workshop is being held, Whadjuk Noongar boodja, and recognise their continuing connection to land, waters, and community. We pay our respects to them and their culture; and to their elders both past and present.

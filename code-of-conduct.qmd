@@ -1,0 +1,30 @@
+---
+title: "Code of Conduct (CoC)"
+sidebar: false
+---
+
+The organisers of this event are committed to providing a workshop that is welcoming and safe for all participants, is free from discrimination and harassment, and where all participants are treated with dignity and respect. Harassment is unlawful under both federal and all Australian state anti-discrimination laws, and as such, people suspected of such misconduct may be reported to authorities. Adherence to this Code of Conduct is a requirement for all workshop participants and sponsors, and covers all aspects of this workshop, including (but not limited to) workshop sessions and breaks, and all communication, including that via email or social media (including but not limited to Facebook and Twitter) associated with this event. Attendees agree to refrain from engaging in unacceptable behaviour. Unacceptable behaviour includes, but is not limited to:
+
+- Harassment, including verbal comments relating to gender, sexual orientation, disability, race, ethnicity, religion, age, national origin, gender identity or expression, or physical appearance;
+- Inappropriate and/or unwanted physical contact;
+- Unwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information;
+- Stalking or deliberate intimidation;
+- Sharing the presentation or comments of others outside of the Slack workspace where the Meeting is held, except by the author themselves (with the permission of others appearing in the presentation or discussion thread);
+- Discriminatory or sexual images in public spaces;
+- Sustained or wilful disruption of talks or other events.
+
+Reports of unacceptable behaviour may be communicated to the Statistical Society of Australia, and individuals who participate in unacceptable behaviour may face consequences including being barred from attending future events. Individuals who are removed from the workshop will not be allowed to give any planned oral or poster presentations, and their place may be allocated to another attendee. Violations may be reported to the individual’s employer or research funders. Statistical Society of Australia members may have their membership cancelled without refund of membership fees, in accordance with the Society’s Code of Conduct, available at <https://www.statsoc.org.au>. 
+
+All efforts will be made to protect the anonymity of persons reporting violations. Persons reporting violations of the Code may request that their report remain confidential and that no further action be taken. However, if necessary for the safety of event attendees, action will be taken, including referral of the report to the Statistical Society of Australia. 
+
+This Code of Conduct is designed to ensure that this workshop can be enjoyed by all participants. We hope you have an inspiring and enjoyable time.
+
+## CoC Response Team
+
+Attendees who wish to make a report can do so by contacting the CoC response team below. 
+
+Nicola Armstrong <nicola.armstrong@curtin.edu.au>
+
+Lucy Conran <lucy.conran@research.uwa.edu.au>
+
+Marie-Louise Rankin <eo@statsoc.org.au>

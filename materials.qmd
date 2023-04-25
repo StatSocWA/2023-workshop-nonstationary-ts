@@ -1,0 +1,21 @@
+---
+title: "Workshop Materials"
+---
+
+## Requirements
+
+Attendees are requested to have the following ready:
+
+- Laptop with R/RStudio installed ([instructions](https://posit.co/download/rstudio-desktop/))
+
+- R packages installed ([instructions](files/workshop_packages.pdf))
+   + CRAN: `locits`, `zoo`, `forecast`, `tibble`, `lpacf`, `BootWPTOS`.
+   + GitHub: `forecastLSW`
+   
+- Their own time series dataset to analyse
+
+## Handouts
+
+- **[Session 2]** Tests of Stationarity, Wavelet Spectrum Estimation ([pdf](files/fhm_workshop_session_2.pdf))
+
+- **[Session 4]** Local ACVF, ABML Series ([pdf](files/fhm_workshop_session_4.pdf))

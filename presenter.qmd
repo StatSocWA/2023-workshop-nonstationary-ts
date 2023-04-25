@@ -1,0 +1,7 @@
+---
+title: "Presenter"
+---
+
+![](images/gn.jpg)
+
+Professor Guy Nason is Chair in Statistics at Imperial College London. He has undertaken research in the areas of wavelets and time series analysis, particularly in the area of non-stationary time series. A major current research direction is network time series in which he is involved in the NeSTProgramme Grant - a partnership of nine investigators at the six UK universities of Bath, Bristol, LSE, Oxford, York and Imperial.

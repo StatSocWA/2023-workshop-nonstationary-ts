@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "CPD-164 Workshop"
+  search: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: https://www.statsoc.org.au/event-5223763
+        text: Registration
+      - href: materials.qmd
+        text: Materials
+      - href: presenter.qmd
+        text: Presenter
+      - href: venue.qmd
+        text: Venue
+      - href: code-of-conduct.qmd
+        text: Code of Conduct  
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true
+    toc-depth: 2
+
+
+
