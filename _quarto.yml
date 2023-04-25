@@ -24,7 +24,7 @@ website:
 
 format:
   html:
-    theme: zephyr
+    theme: united
     css: styles.css
     toc: true
     toc-depth: 2

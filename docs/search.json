@@ -39,21 +39,21 @@
     "href": "index.html#abstract",
     "title": "Nonstationary Time Series: Techniques and Tools",
     "section": "Abstract",
-    "text": "Abstract\nThis workshop covers the modelling and analysis of (second-order) nonstationary time series. That is, time series whose second-order properties (variance, autocovariance) can change over time. We will look at some models for nonstationary time series and study their controlling parameters. We will then examine methods for estimating those parameters and statistical tests that can be used to detect non-stationarity in such time series. In the second part we will look at methods for estimating local versions of the classical autocovariance and partial autocovariance, which can provide a lot of insight into the behaviour of the series over time. Finally, we will examine methods and software for forecasting such series and seeing how they compare to methods designed for stationary series. If time permits, we might examine some network time series models."
+    "text": "Abstract\nThis workshop covers the modelling and analysis of (second-order) nonstationary time series. That is, time series whose second-order properties (variance, autocovariance) can change over time. We will look at some models for nonstationary time series and study their controlling parameters. We will then examine methods for estimating those parameters and statistical tests that can be used to detect non-stationarity in such time series.\nIn the second part we will look at methods for estimating local versions of the classical autocovariance and partial autocovariance, which can provide a lot of insight into the behaviour of the series over time.\nFinally, we will examine methods and software for forecasting such series and seeing how they compare to methods designed for stationary series. If time permits, we might examine some network time series models."
   },
   {
     "objectID": "index.html#schedule",
     "href": "index.html#schedule",
     "title": "Nonstationary Time Series: Techniques and Tools",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n09:00 - 09:30\nArrival and Registration\n\n\n09:30 - 11:00\n[Session 1] Nonstationary Time Series: Models and Tests\n\n\n11:00 - 11:30\nMorning Tea\n\n\n11:30 - 12:30\n[Session 2] Practical on Tests of Stationarity, Wavelet Spectrum Estimation\n\n\n12:30 - 14:00\nLunch\n\n\n14:00 - 15:30\n[Session 3] Local Autocovariance, Local Partial Autocovariance, and Forecasting\n\n\n15:30 - 16:00\nAfternoon Tea\n\n\n16:00 - 17:00\n[Session 4] Practical: Local ACVF, ABML Series"
+    "text": "Schedule\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n09:00 - 09:30\nArrival and Registration\n\n\n09:30 - 11:00\n[Session 1] Nonstationary Time Series: Models and Tests\n\n\n11:00 - 11:30\nMorning Tea\n\n\n11:30 - 12:30\n[Session 2] Practical on Tests of Stationarity, Wavelet Spectrum Estimation\n\n\n12:30 - 14:00\nLunch\n\n\n14:00 - 15:30\n[Session 3] Local Autocovariance, Local Partial Autocovariance, Forecasting\n\n\n15:30 - 16:00\nAfternoon Tea\n\n\n16:00 - 17:00\n[Session 4] Practical on Local ACVF, ABML Series"
   },
   {
     "objectID": "index.html#acknowledgement-of-country",
     "href": "index.html#acknowledgement-of-country",
     "title": "Nonstationary Time Series: Techniques and Tools",
     "section": "Acknowledgement of Country",
-    "text": "Acknowledgement of Country\nThe Local Organising Committee acknowledge the Traditional Owners of the land upon which this workshop is being held, Whadjuk Noongar boodja, and recognise their continuing connection to land, waters, and community. We pay our respects to them and their culture; and to their elders both past and present."
+    "text": "Acknowledgement of Country\nThe Local Organising Committee wish acknowledge the Traditional Owners of the land upon which this workshop is being held, the Whadjuk people of the Noongar nation, and recognise their continuing connection to land, waters, and community. We pay our respects to them, their culture, and to their elders both past and present."
   },
   {
     "objectID": "materials.html",
@@ -74,7 +74,7 @@
     "href": "presenter.html",
     "title": "Professor Guy Nason",
     "section": "",
-    "text": "Professor Guy Nason is Chair in Statistics at Imperial College London. He has undertaken research in the areas of wavelets and time series analysis, particularly in the area of non-stationary time series. A major current research direction is network time series in which he is involved in the NeSTProgramme Grant - a partnership of nine investigators at the six UK universities of Bath, Bristol, LSE, Oxford, York and Imperial."
+    "text": "Professor Guy Nason is Chair in Statistics at Imperial College London. He has undertaken research in the areas of wavelets and time series analysis, particularly in the area of nonstationary time series.\nA major current research direction is network time series in which he is involved in the NeSTProgramme Grant - a partnership of nine investigators at the six UK universities of Bath, Bristol, LSE, Oxford, York and Imperial. He is particularly interested in the statistical modelling of wine production and is especially interested in modelling the wines of Western Australia."
   },
   {
     "objectID": "venue.html",
