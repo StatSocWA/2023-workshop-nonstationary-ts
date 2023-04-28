@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "code-of-conduct.html",
-    "href": "code-of-conduct.html",
-    "title": "Code of Conduct (CoC)",
-    "section": "",
-    "text": "The organisers of this event are committed to providing a workshop that is welcoming and safe for all participants, is free from discrimination and harassment, and where all participants are treated with dignity and respect. Harassment is unlawful under both federal and all Australian state anti-discrimination laws, and as such, people suspected of such misconduct may be reported to authorities. Adherence to this Code of Conduct is a requirement for all workshop participants and sponsors, and covers all aspects of this workshop, including (but not limited to) workshop sessions and breaks, and all communication, including that via email or social media (including but not limited to Facebook and Twitter) associated with this event. Attendees agree to refrain from engaging in unacceptable behaviour. Unacceptable behaviour includes, but is not limited to:\nReports of unacceptable behaviour may be communicated to the Statistical Society of Australia, and individuals who participate in unacceptable behaviour may face consequences including being barred from attending future events.\nViolations may be reported to the individual’s employer or research funders. Statistical Society of Australia members may have their membership cancelled without refund of membership fees, in accordance with the Society’s Code of Conduct, available at https://www.statsoc.org.au.\nAll efforts will be made to protect the anonymity of persons reporting violations. Persons reporting violations of the Code may request that their report remain confidential and that no further action be taken. However, if necessary for the safety of event attendees, action will be taken, including referral of the report to the Statistical Society of Australia. This Code of Conduct is designed to ensure that this workshop can be enjoyed by all participants. We hope you have an inspiring and enjoyable time."
-  },
-  {
-    "objectID": "code-of-conduct.html#coc-response-team",
-    "href": "code-of-conduct.html#coc-response-team",
-    "title": "Code of Conduct (CoC)",
-    "section": "CoC Response Team",
-    "text": "CoC Response Team\nAttendees who wish to make a report can do so by contacting the CoC response team below.\nNicola Armstrong nicola.armstrong@curtin.edu.au\nLucy Conran lucy.conran@research.uwa.edu.au\nMarie-Louise Rankin eo@statsoc.org.au"
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
@@ -26,6 +12,13 @@
     "title": "Contact",
     "section": "Local Organising Committee",
     "text": "Local Organising Committee\n\nNicola Armstrong\nBrenton Clarke\nBerwin Turlach\nShih Ching Fu"
+  },
+  {
+    "objectID": "presenter.html",
+    "href": "presenter.html",
+    "title": "Professor Guy Nason",
+    "section": "",
+    "text": "Professor Guy Nason is Chair in Statistics at Imperial College London. He has undertaken research in the areas of wavelets and time series analysis, particularly in the area of nonstationary time series.\nA major current research direction is network time series in which he is involved in the NeSTProgramme Grant - a partnership of nine investigators at the six UK universities of Bath, Bristol, LSE, Oxford, York and Imperial. He is particularly interested in the statistical modelling of wine production and is especially interested in modelling the wines of Western Australia."
   },
   {
     "objectID": "index.html",
@@ -56,27 +49,6 @@
     "text": "Acknowledgement of Country\nThe Local Organising Committee wish acknowledge the Traditional Owners of the land upon which this workshop is being held, the Whadjuk people of the Noongar nation, and recognise their continuing connection to land, waters, and community. We pay our respects to them, their culture, and to their elders both past and present."
   },
   {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Workshop Materials",
-    "section": "",
-    "text": "Attendees are requested to have the following ready:\n\nLaptop with R/RStudio installed (instructions)\nR packages installed (instructions)\n\nCRAN: locits, zoo, forecast, tibble, lpacf, BootWPTOS.\nGitHub: forecastLSW\n\nTheir own time series dataset to analyse"
-  },
-  {
-    "objectID": "materials.html#handouts",
-    "href": "materials.html#handouts",
-    "title": "Workshop Materials",
-    "section": "Handouts",
-    "text": "Handouts\n\n[Session 2] Tests of Stationarity, Wavelet Spectrum Estimation (pdf)\n[Session 4] Local ACVF, ABML Series (pdf)"
-  },
-  {
-    "objectID": "presenter.html",
-    "href": "presenter.html",
-    "title": "Professor Guy Nason",
-    "section": "",
-    "text": "Professor Guy Nason is Chair in Statistics at Imperial College London. He has undertaken research in the areas of wavelets and time series analysis, particularly in the area of nonstationary time series.\nA major current research direction is network time series in which he is involved in the NeSTProgramme Grant - a partnership of nine investigators at the six UK universities of Bath, Bristol, LSE, Oxford, York and Imperial. He is particularly interested in the statistical modelling of wine production and is especially interested in modelling the wines of Western Australia."
-  },
-  {
     "objectID": "venue.html",
     "href": "venue.html",
     "title": "Venue",
@@ -103,5 +75,33 @@
     "title": "Venue",
     "section": "Catering",
     "text": "Catering\nMorning tea and afternoon tea are included in the registration fee."
+  },
+  {
+    "objectID": "code-of-conduct.html",
+    "href": "code-of-conduct.html",
+    "title": "Code of Conduct (CoC)",
+    "section": "",
+    "text": "The organisers of this event are committed to providing a workshop that is welcoming and safe for all participants, is free from discrimination and harassment, and where all participants are treated with dignity and respect. Harassment is unlawful under both federal and all Australian state anti-discrimination laws, and as such, people suspected of such misconduct may be reported to authorities. Adherence to this Code of Conduct is a requirement for all workshop participants and sponsors, and covers all aspects of this workshop, including (but not limited to) workshop sessions and breaks, and all communication, including that via email or social media (including but not limited to Facebook and Twitter) associated with this event. Attendees agree to refrain from engaging in unacceptable behaviour. Unacceptable behaviour includes, but is not limited to:\nReports of unacceptable behaviour may be communicated to the Statistical Society of Australia, and individuals who participate in unacceptable behaviour may face consequences including being barred from attending future events.\nViolations may be reported to the individual’s employer or research funders. Statistical Society of Australia members may have their membership cancelled without refund of membership fees, in accordance with the Society’s Code of Conduct, available at https://www.statsoc.org.au.\nAll efforts will be made to protect the anonymity of persons reporting violations. Persons reporting violations of the Code may request that their report remain confidential and that no further action be taken. However, if necessary for the safety of event attendees, action will be taken, including referral of the report to the Statistical Society of Australia. This Code of Conduct is designed to ensure that this workshop can be enjoyed by all participants. We hope you have an inspiring and enjoyable time."
+  },
+  {
+    "objectID": "code-of-conduct.html#coc-response-team",
+    "href": "code-of-conduct.html#coc-response-team",
+    "title": "Code of Conduct (CoC)",
+    "section": "CoC Response Team",
+    "text": "CoC Response Team\nAttendees who wish to make a report can do so by contacting the CoC response team below.\nNicola Armstrong nicola.armstrong@curtin.edu.au\nLucy Conran lucy.conran@research.uwa.edu.au\nMarie-Louise Rankin eo@statsoc.org.au"
+  },
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Workshop Materials",
+    "section": "",
+    "text": "Attendees are requested to have the following ready:\n\nLaptop with R/RStudio installed (instructions)\nR packages installed (instructions)\n\nCRAN: locits, zoo, forecast, tibble, lpacf, BootWPTOS.\nGitHub: forecastLSW\n\nTheir own time series dataset to analyse"
+  },
+  {
+    "objectID": "materials.html#handouts",
+    "href": "materials.html#handouts",
+    "title": "Workshop Materials",
+    "section": "Handouts",
+    "text": "Handouts\n\n[Session 1] Nonstationary Time Series: Models and Tests (pdf)\n[Session 2] Tests of Stationarity, Wavelet Spectrum Estimation (pdf)\n[Session 3] Local Autocovariance, Local Partial Autocovariance, Forecasting (pdf)\n[Session 4] Local ACVF, ABML Series (pdf)"
   }
 ]

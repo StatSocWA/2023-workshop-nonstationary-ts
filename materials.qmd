@@ -8,7 +8,7 @@ Attendees are requested to have the following ready:
 
 - Laptop with R/RStudio installed ([instructions](https://posit.co/download/rstudio-desktop/))
 
-- R packages installed ([instructions](files/workshop_packages.pdf))
+- R packages installed ([instructions](files/FHM_Workshop_Packages_PROTECT.pdf))
    + CRAN: `locits`, `zoo`, `forecast`, `tibble`, `lpacf`, `BootWPTOS`.
    + GitHub: `forecastLSW`
    
@@ -16,6 +16,10 @@ Attendees are requested to have the following ready:
 
 ## Handouts
 
-- **[Session 2]** Tests of Stationarity, Wavelet Spectrum Estimation ([pdf](files/fhm_workshop_session_2.pdf))
+- **[Session 1]** Nonstationary Time Series: Models and Tests ([pdf](files/FHM_Workshop_Session_1_PROTECT.pdf))
 
-- **[Session 4]** Local ACVF, ABML Series ([pdf](files/fhm_workshop_session_4.pdf))
+- **[Session 2]** Tests of Stationarity, Wavelet Spectrum Estimation ([pdf](files/FHM_Workshop_Session_2_PROTECT.pdf))
+
+- **[Session 3]** Local Autocovariance, Local Partial Autocovariance, Forecasting ([pdf](files/FHM_Workshop_Session_3_PROTECT.pdf))
+
+- **[Session 4]** Local ACVF, ABML Series ([pdf](files/FHM_Workshop_Session_4_PROTECT.pdf))
